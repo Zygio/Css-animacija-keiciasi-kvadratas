@@ -1,0 +1,25 @@
+.newcube{
+    width: 200px;
+    height: 80px;
+    background-color: darkolivegreen ;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-delay: 1s;
+    transition-duration: 5s;
+    transition-property: background-color ;
+    
+
+}
+.newcube:hover{
+    background-color: rgb(240, 195, 18);
+    width: 900px;
+    color: brown;
+    border-style: double solid;
+    border-color: rgb(131, 88, 209);
+    color: chocolate;
+    border-radius: 25px;
+
+
+}
